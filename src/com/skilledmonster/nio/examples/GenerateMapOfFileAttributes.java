@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
  * Example to obtain file attributes in a map
- * @author Jagamot
+ * @author Jagadeesh
  */
 public class GenerateMapOfFileAttributes {
 
