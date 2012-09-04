@@ -27,7 +27,7 @@ public class CheckFileContentType {
      */
     public static String returnContentType(String pathText) throws Exception {
 
-        // get Path object
+        // obtain Path object that represents the file
         Path path = Paths.get(pathText);
 
         // probe the content
